@@ -9,5 +9,5 @@ Dependencies:
 - NLTK
 - String
 
-Database from:
+ Database from:
 <a href="http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/">http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/</a>
